@@ -1,11 +1,11 @@
 {
 	"name": "enjoy-your-apsaragus-react",
-	"version": "1.0.0",
+	"version": "1.0.1",
 	"main": "index.js",
 	"author": "AdamDoquiatan <adamdoq@gmail.com>",
 	"license": "MIT",
 	"engines": {
-		"node": "18.12.1"
+		"node": "16.16.0"
 	},
 	"dependencies": {
 		"concurrently": "^5.2.0",

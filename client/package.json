@@ -1,9 +1,9 @@
 {
 	"name": "enjoy-your-apsaragus-react",
-	"version": "0.1.1",
+	"version": "1.0.1",
 	"private": true,
 	"engines": {
-		"node": "18.12.1"
+		"node": "16.16.0"
 	},
 	"dependencies": {
 		"@testing-library/jest-dom": "^4.2.4",
