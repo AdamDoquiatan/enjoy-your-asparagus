@@ -4,6 +4,9 @@
 	"main": "index.js",
 	"author": "AdamDoquiatan <adamdoq@gmail.com>",
 	"license": "MIT",
+	"engines": {
+		"node": "18.12.1"
+	},
 	"dependencies": {
 		"concurrently": "^5.2.0",
 		"express": "^4.17.1"
